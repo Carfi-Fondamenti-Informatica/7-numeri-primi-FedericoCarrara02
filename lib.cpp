@@ -1,6 +1,6 @@
 
 
-#include "lib_nprimi.h"
+#include "lib.h"
 #include <string>
 using namespace std;
 
